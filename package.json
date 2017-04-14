@@ -1,8 +1,12 @@
 {
   "name": "neutrino-preset-stage-0",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Add the babel stage-0 preset with neutrino",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rj254/neutrino-preset-stage-0.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
