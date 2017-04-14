@@ -1,0 +1,18 @@
+{
+  "name": "neutrino-preset-stage-0",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Jain <rishabh@theadsontop.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-stage-0": "^6.24.1",
+    "neutrino-middleware-loader-merge": "^5.5.1"
+  },
+  "peerDependencies": {
+    "neutrino": "^5.5.0"
+  }
+}
